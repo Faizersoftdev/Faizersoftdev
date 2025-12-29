@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/Faizersoftdev/images-gifs-icons/blob/main/gifgit.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faizersoftdev/images-gifs-icons/main/gifgit.gif" height="220">
+</p>
 
 ---
 
