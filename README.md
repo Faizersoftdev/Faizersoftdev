@@ -1,9 +1,4 @@
-<p align="center">
-  <img 
-    src="https://64.media.tumblr.com/399fe53de81922475cee9625535cad87/b6e9fab45b1932fe-37/s500x750/c0ecf4161f0837091de7966a2aa90abd37da8138.gifv" 
-    width="900"
-  />
-</p>
+![Banner](![Banner](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
 
 ---
 
