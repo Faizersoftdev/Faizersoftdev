@@ -1,4 +1,5 @@
-![Banner](![Banner](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
+![Banner]([https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif](https://64.media.tumblr.com/d622fd2c1310be13affab1bf32420a49/tumblr_oy1iizKBc71u77u56o1_1280.gif))
+
 
 ---
 
