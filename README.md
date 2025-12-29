@@ -4,6 +4,8 @@
 
 ## Hi there 👋 Welcome to My GitHub Profile
 
+---
+
 ## About Me
 Hi! I’m **Faizer O. Anoyo**, an aspiring software developer based in the **Philippines**. I’m currently a **2nd-year Bachelor of Science in Computer Science (BSCS)** student at **Southern Luzon Technological College Foundation, Pioduran Incorporated (SLTCFPDI)**. <br> 
 
