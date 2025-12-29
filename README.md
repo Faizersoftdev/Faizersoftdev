@@ -1,6 +1,9 @@
-![MasterHead](https://64.media.tumblr.com/d622fd2c1310be13affab1bf32420a49/tumblr_oy1iizKBc71u77u56o1_1280.gif)
-
-
+<p align="center">
+  <img 
+    src="https://64.media.tumblr.com/d622fd2c1310be13affab1bf32420a49/tumblr_oy1iizKBc71u77u56o1_1280.gif" 
+    width="250"
+  />
+</p>
 ---
 
 ## Hi there 👋 Welcome to My GitHub Profile
