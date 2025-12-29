@@ -8,9 +8,14 @@
 ---
 
 ## About Me
-Hi! I’m **Faizer O. Anoyo**, an aspiring software developer based in the **Philippines**. I’m currently a **2nd-year Bachelor of Science in Computer Science (BSCS)** student at **Southern Luzon Technological College Foundation, Pioduran Incorporated (SLTCFPDI)**. <br> 
+<p align="justify">
+Hi! I’m <strong>Faizer O. Anoyo</strong>, an aspiring software developer based in the <strong>Philippines</strong>. I’m currently a <strong>2nd-year Bachelor of Science in Computer Science (BSCS)</strong> student at <strong>Southern Luzon Technological College Foundation, Pioduran Incorporated (SLTCFPDI)</strong>.
+</p>
 
-I have hands-on experience with **HTML, CSS, JavaScript, Java, Python, PHP, Qt, and MySQL**, and I enjoy building projects that help me understand how software works from both the front end and back end. While I’m still at the beginning of my journey in the tech world, I’m highly motivated, curious, and always eager to learn new technologies and improve my skills.
+<p align="justify">
+I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP, Qt, and MySQL</strong>, and I enjoy building projects that help me understand how software works from both the front end and back end. While I’m still at the beginning of my journey in the tech world, I’m highly motivated, curious, and always eager to learn new technologies and improve my skills.
+</p>
+
 
 ## Tech & Tools  
 
