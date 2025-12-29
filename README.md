@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faizersoftdev/images-gifs-icons/main/gifgit.gif" height="220">
-</p>
+![My GIF](https://raw.githubusercontent.com/Faizersoftdev/images-gifs-icons/refs/heads/main/gifgit.gif)
+
 
 ---
 
