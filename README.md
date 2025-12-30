@@ -35,6 +35,8 @@ I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-GitHub?style=for-the-badge&logo=github&color=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)"/>
+  
 </p>
 
 ---
