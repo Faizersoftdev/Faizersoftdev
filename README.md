@@ -37,6 +37,9 @@ I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizersoftdev&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fawn-two-67.vercel.app/api?username=Faizersoftdev&show_icons=true&theme=radical)
+
+
+
 
 
