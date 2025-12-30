@@ -1,9 +1,13 @@
 ![My GIF](https://raw.githubusercontent.com/Faizersoftdev/images-gifs-icons/refs/heads/main/gifgit.gif)
 
+**`$ Code • Learn • Build • Repeat`** 
+
 
 ---
 
 ## Hi there 👋 Welcome to My GitHub Profile
+
+
 
 ---
 
