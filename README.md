@@ -7,7 +7,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 <p align="justify">
 Hi! I’m <strong>Faizer O. Anoyo</strong>, an aspiring software developer based in the <strong>Philippines</strong>. I’m currently a <strong>2nd-year Bachelor of Science in Computer Science (BSCS)</strong> student at <strong>Southern Luzon Technological College Foundation, Pioduran Incorporated (SLTCFPDI)</strong>.
 </p>
@@ -17,7 +17,7 @@ I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP
 </p>
 
 
-## Tech & Tools  
+## ⚙️🔨 Tech & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
