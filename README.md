@@ -20,6 +20,7 @@ Hi! I’m <strong>Faizer O. Anoyo</strong>, an aspiring software developer based
 I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP, Qt, and MySQL</strong>, and I enjoy building projects that help me understand how software works from both the front end and back end. While I’m still at the beginning of my journey in the tech world, I’m highly motivated, curious, and always eager to learn new technologies and improve my skills.
 </p>
 
+---
 
 ## ⚙️🔨 Tech & Tools  
 
@@ -36,6 +37,8 @@ I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
+## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats-fawn-two-67.vercel.app/api?username=Faizersoftdev&show_icons=true&theme=radical)
 
