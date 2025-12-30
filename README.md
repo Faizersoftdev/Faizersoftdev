@@ -24,7 +24,7 @@ I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP
 ## ⚙️🔨 Tech & Tools  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?style=for-the-badge&logo=javaicon-java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,5 +36,7 @@ I have hands-on experience with <strong>HTML, CSS, JavaScript, Java, Python, PHP
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizersoftdev&show_icons=true&theme=github_dark)
 
 
