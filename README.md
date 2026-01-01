@@ -3,7 +3,10 @@
 **`$ Code • Learn • Build • Repeat`** 
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=40CF3C&width=435&lines=Learning+New+Things+Everyday!)](https://git.io/typing-svg)
+
 ---
+
 
 ## Hi there 👋 Welcome to My GitHub Profile
 
